@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildWest_BL", "WildWest\WildWest_BL.csproj", "{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildWest_CMD", "WildWest_CMD\WildWest_CMD.csproj", "{83B6BA46-C62C-4512-A4D0-35CADB21D125}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049} = {5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDEE376-D7EE-4A3F-94D3-E15DFB6BD049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B6BA46-C62C-4512-A4D0-35CADB21D125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B6BA46-C62C-4512-A4D0-35CADB21D125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B6BA46-C62C-4512-A4D0-35CADB21D125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B6BA46-C62C-4512-A4D0-35CADB21D125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CE8DD07-6448-4B1A-A5FB-4D84E1F47E56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\anton\Desktop\WildWest\WildWest\obj\Debug\WildWest_BL.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\WildWest\WildWest\bin\Debug\WildWest.dll
+C:\Users\anton\Desktop\WildWest\WildWest\bin\Debug\WildWest.pdb
+C:\Users\anton\Desktop\WildWest\WildWest\obj\Debug\WildWest.dll
+C:\Users\anton\Desktop\WildWest\WildWest\obj\Debug\WildWest.pdb
+C:\Users\anton\Desktop\WildWest\WildWest\obj\Debug\WildWest_BL.csprojAssemblyReference.cache
